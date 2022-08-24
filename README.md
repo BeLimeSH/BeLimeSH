@@ -46,13 +46,18 @@
 
 <br><br>
 
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeLimeSH&hide_border=true&repo=github-readme-stats" />
+    </a>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeLimeSH&hide_border=true&repo=github-readme-stats" />
-</a>
+<br>
 
-<a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLimeSH&layout=compact&hide_border=true&repo=convoychat" />
-</a>
+<div align="center">
+    <a href="https://github.com/anuraghazra/convoychat">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLimeSH&layout=compact&hide_border=true&repo=convoychat" />
+    </a>
+</div>
 
 
