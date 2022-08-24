@@ -1,8 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=8,9,18&height=300&section=header&text=Welcome&fontSize=86&fontAlignY=45&desc=SeungHee's%20GitHub%20Profile&descSize=24&descAlignY=60)
 
 <br>
+
+<div align="center">
+    📧<b>Email</b>📧<br>
+    shee5212@naver.com
+</div>
+
+<br><br>
+
+<div align="center">
+    안녕하세요👋<br>
+    제 이름은 김승희입니다😊<br>
+    풀스택 과정을 공부하였으며📖<br>
+    다양한 언어를 배우는 것을 좋아합니다❣
+</div>
+
+<br><br>
+
 <!-- 공부했거나 써본 기술 -->
-<h2>Studying</h2>
+<div align="center">
+    🛠<b>Tech Stack</b>🛠
+</div>
 
 <br>
 
@@ -27,16 +46,13 @@
 
 <br><br>
 
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeLimeSH&repo=github-readme-stats" />
-    </a>
 
-    <br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BeLimeSH&hide_border=true&repo=github-readme-stats" />
+</a>
 
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLimeSH&layout=compact&repo=convoychat" />
-    </a>
-</div>
+<a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeLimeSH&layout=compact&hide_border=true&repo=convoychat" />
+</a>
 
 
